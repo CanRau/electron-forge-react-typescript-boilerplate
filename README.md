@@ -25,4 +25,11 @@ So thanks [@ankitbko](https://twitter.com/ankitbko) for this great and easy blog
 - [react-dom](https://www.npmjs.com/package/react-dom)
 - [react-sweet-state](https://www.npmjs.com/package/react-sweet-state)
 - [react](https://www.npmjs.com/package/react)
-- [theme-ui](https://www.npmjs.com/package/theme-ui)
+- [theme-ui](https://www.npmjs.com/package/theme-ui) waiting for [#423](https://github.com/system-ui/theme-ui/issues/423)
+- [typeorm](https://www.npmjs.com/package/typeorm)
+- [sqlite3](https://www.npmjs.com/package/sqlite3)
+
+### Inspiration
+
+- https://github.com/sindresorhus/tsconfig/blob/master/tsconfig.json
+- https://github.com/LekoArts/gatsby-themes/blob/master/tsconfig.json
