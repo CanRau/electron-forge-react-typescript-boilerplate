@@ -17,11 +17,8 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"],
-      "@public/*": ["public/*"],
       "@main/*": ["src/main/*"],
-      "@models/*": ["src/models/*"],
       "@renderer*/": ["src/renderer/*"],
-      "@utils/*": ["src/utils/*"]
     }
   },
   "include": ["src"]

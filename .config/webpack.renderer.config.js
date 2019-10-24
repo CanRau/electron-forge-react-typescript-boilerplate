@@ -16,10 +16,7 @@ module.exports = {
     alias: {
       '@': srcPaths('src'),
       '@main': srcPaths('src/main'),
-      '@models': srcPaths('src/models'),
-      '@public': srcPaths('public'),
       '@renderer': srcPaths('src/renderer'),
-      '@utils': srcPaths('src/utils'),
     },
     extensions: ['.js', '.ts', '.jsx', '.tsx', '.css'],
   },

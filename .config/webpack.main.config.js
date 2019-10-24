@@ -10,15 +10,12 @@ module.exports = {
    * This is the main entry point for your application, it's the first file
    * that runs in the main process.
    */
-  entry: './src/main.ts',
+  entry: './src/main/main.ts',
   resolve: {
     alias: {
       '@': srcPaths('src'),
       '@main': srcPaths('src/main'),
-      '@models': srcPaths('src/models'),
-      '@public': srcPaths('public'),
       '@renderer': srcPaths('src/renderer'),
-      '@utils': srcPaths('src/utils'),
     },
     extensions: ['.js', '.ts', '.jsx', '.tsx', '.css'],
   },
